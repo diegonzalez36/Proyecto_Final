@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginGoogle</string>
+    <string name="prefs_file">com.example.logingoogle.PREFERENCE_FILE_KEY</string>
+</resources>
